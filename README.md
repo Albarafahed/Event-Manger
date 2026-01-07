@@ -36,7 +36,7 @@
 ![Chat Screen](images/Chat_screenshot.png)
 [Create Event](images/CreateEvent_screenshot.png)  
 ![Event List](images/EventList_screenshot.png)  
-![Chat Screen](images/chat_screenshot.png)
+
 
 *(يمكنك تعديل الروابط لتتناسب مع صور مشروعك)*
 
